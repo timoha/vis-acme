@@ -2,4 +2,4 @@
 
 acme theme for vis editor.
 
-[screenshot](./screenshot.png?raw=true)
+![screenshot](./screenshot.png?raw=true)
