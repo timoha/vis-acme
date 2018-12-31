@@ -20,7 +20,7 @@ lexers.STYLE_TAG = 'fore:black'
 lexers.STYLE_TYPE = 'fore:black'
 lexers.STYLE_VARIABLE = 'fore:black'
 lexers.STYLE_WHITESPACE = ''
-lexers.STYLE_EMBEDDED = 'back:black'
+lexers.STYLE_EMBEDDED = 'fore:black'
 lexers.STYLE_IDENTIFIER = 'fore:black'
 
 lexers.STYLE_LINENUMBER = 'fore:black'
